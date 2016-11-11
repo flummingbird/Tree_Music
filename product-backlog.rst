@@ -16,11 +16,23 @@ All are free. Please feel free to do your own thing and plan your own project. I
 
 USER-STORIES
 ============
-1. Data tree counterpoint
 
+1. Data tree counterpoint
+2. Live coding should always be on the fly.
+3. Written music should typically go for structure over intuition.
+4. Analysis???
+5. Use git well.
 
 TASKS
 =====
+
+1. Copy and paste in emacs
+2. Lists in RST
+3. Data-Tree spike
+4. RandomWaltz as subproject in git
+5. Which language is best to do recurion spike
+6. String manipulation it python spike
+
 
 COMPLETE
 ========
