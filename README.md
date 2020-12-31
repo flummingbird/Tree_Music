@@ -49,4 +49,3 @@ Jacques Derrida
 Douglas R. Hofstadter
 
 I probably can't include all the influences I would like. It would simply take too long.
-
